@@ -24,7 +24,7 @@
     <div class="dat container">
         <div class="row">
             <div class="col-md">
-                <img src="img/ops.png" alt="sorry">
+                <img src="https://i.imgur.com/CfBbhgp.png" alt="sorry">
                 <h2>IT SEEMS THAT YOU ARE LOST</h2>
                <a href="index.html"><button class="btn btn-primary">Back Home</button></a> 
             </div>
